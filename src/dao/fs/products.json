@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "title": "Alfajor",
+      "description": "Dulce",
+      "code": "100",
+      "price": 2,
+      "status": true,
+      "stock": 20,
+      "category": "Dulces",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/alfajor.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Alfajor de Almendra",
+      "description": "Dulce",
+      "code": "101",
+      "price": 3,
+      "status": true,
+      "stock": 25,
+      "category": "Dulces",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/alfajoralmendra.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cheesecake",
+      "description": "Tarta",
+      "code": "102",
+      "price": 2,
+      "status": true,
+      "stock": 30,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/cheesecake.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tarta de Chocolate",
+      "description": "Tarta",
+      "code": "103",
+      "price": 4,
+      "status": true,
+      "stock": 20,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/banana.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Crumble de Manzana",
+      "description": "Tarta",
+      "code": "104",
+      "price": 4,
+      "status": true,
+      "stock": 40,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/crumble.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lemon Pie",
+      "description": "Tarta",
+      "code": "105",
+      "price": 2.5,
+      "status": true,
+      "stock": 35,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/lemonpie.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Macarons",
+      "description": "Dulce",
+      "code": "106",
+      "price": 1.2,
+      "status": true,
+      "stock": 70,
+      "category": "Dulces",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/macarons.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Tarta de Oreo",
+      "description": "Tarta",
+      "code": "107",
+      "price": 3.5,
+      "status": true,
+      "stock": 40,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/OreoCake.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Tarta de Frutas",
+      "description": "Tarta",
+      "code": "108",
+      "price": 4.5,
+      "status": true,
+      "stock": 15,
+      "category": "Tartas",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/tarta-de-frutas.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Box Dulce",
+      "description": "Box variado",
+      "code": "109",
+      "price": 6.75,
+      "status": true,
+      "stock": 100,
+      "category": "Variados",
+      "thumbnail": [
+        "http://localhost:8080/storage/products/boxdulce.jpg"
+      ]
+    }
+  ]
